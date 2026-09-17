@@ -11,8 +11,8 @@
   <p>
     <a href="https://t.me/s1s2s2s1s" target="_blank"><img src="https://img.shields.io/badge/Telegram-@s1s2s2s1s-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="mailto:chankhantmin@gmail.com"><img src="https://img.shields.io/badge/Email-chankhantmin%40gmail.com-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+    <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a> -->
   </p>
 
 </div>
@@ -21,10 +21,10 @@
 
 ### ⚡ Snapshot
 
-* 🛡️ **MCSC 2026 Finalist:** Certified finalist in Myanmar Cyber Security Challenge 2026.
 * 👨‍🏫 **Technical Mentor:** Instructor for *Node.js in Production*, training developers on architecture, security, and scalability.
 * 🛠️ **Production-Ready Platforms:** Delivering performant, resilient web apps using Next.js, NestJS, and multi-paradigm databases.
 * 🤖 **Agentic Engineering:** Leveraging modern AI-driven coding workflows for rapid prototyping and zero-debt delivery.
+* 🛡️ **MCSC 2026 Finalist:** Certified finalist in Myanmar Cyber Security Challenge 2026.
 
 ---
 
@@ -92,30 +92,17 @@
       <img src="https://img.shields.io/badge/MCSC_2026-Finalist-FF0055?style=for-the-badge&logo=target&logoColor=white" alt="MCSC 2026 Badge" />
       <br/><br/>
       <b>Certificate Holder & Finalist</b>
-      <p>Qualified as a finalist in the <b>Myanmar Cyber Security Challenge (MCSC 2026)</b>, demonstrating practical capabilities in web security, defensive architecture, and vulnerability assessment.</p>
+      <p>Qualified as a finalist in the <b>Myanmar Cyber Security Challenge (MCSC 2026)</b>.</p>
     </td>
     <td width="50%" valign="top">
       <h4>👨‍🏫 Mentorship & Teaching</h4>
       <img src="https://img.shields.io/badge/Node.js-Production_Mentor-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Mentor Badge" />
       <br/><br/>
-      <b>Instructor / Mentor</b> — <i>Node.js in Production</i>
+      <b>Instructor / Mentor</b> — <i>Node.js in Production</i> 
       <p>Guided developers through real-world backend engineering, covering production design, secure RESTful APIs, database transactions, and deployment workflows.</p>
     </td>
   </tr>
 </table>
-
----
-
-### 📈 Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00B4D8&text_color=8B949E" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=8B949E" width="48%" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=00B4D8&currStreakLabel=00F5D4" width="97%" alt="Streak" />
-</p>
 
 ---
 
