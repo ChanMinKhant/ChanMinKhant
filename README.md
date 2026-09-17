@@ -64,9 +64,8 @@
     <td width="22%"><b>AI, ML & Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Machine_Learning-29B6F6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NLP-Analytics-FF6F00?style=for-the-badge" alt="NLP" />
     </td>
   </tr>
   <tr>
@@ -75,6 +74,8 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Workflow-Agentic_Coding-7928CA?style=for-the-badge" alt="Agentic" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+      <img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="Antigravity" />
     </td>
   </tr>
 </table>
